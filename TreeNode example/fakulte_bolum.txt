@@ -1,0 +1,3 @@
+Eğitim, Matematik eğitimi, Temel eğitim, Eğitim bilimleri
+İletişim, Gazetecilik, radyo TV ve sinema
+Ana_düğüm, alt_düğüm, alt_düğüm, 
