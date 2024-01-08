@@ -1,0 +1,10 @@
+C:\Users\Umit\source\repos\C sharp walk animation\bin\Debug\C sharp walk animation.exe.config
+C:\Users\Umit\source\repos\C sharp walk animation\bin\Debug\C sharp walk animation.exe
+C:\Users\Umit\source\repos\C sharp walk animation\bin\Debug\C sharp walk animation.pdb
+C:\Users\Umit\source\repos\C sharp walk animation\obj\Debug\C sharp walk animation.csproj.AssemblyReference.cache
+C:\Users\Umit\source\repos\C sharp walk animation\obj\Debug\C_sharp_walk_animation.Form1.resources
+C:\Users\Umit\source\repos\C sharp walk animation\obj\Debug\C_sharp_walk_animation.Properties.Resources.resources
+C:\Users\Umit\source\repos\C sharp walk animation\obj\Debug\C sharp walk animation.csproj.GenerateResource.cache
+C:\Users\Umit\source\repos\C sharp walk animation\obj\Debug\C sharp walk animation.csproj.CoreCompileInputs.cache
+C:\Users\Umit\source\repos\C sharp walk animation\obj\Debug\C sharp walk animation.exe
+C:\Users\Umit\source\repos\C sharp walk animation\obj\Debug\C sharp walk animation.pdb
